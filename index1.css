@@ -1,0 +1,244 @@
+body {
+    background-image: url('https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/137038231/original/169d3d0a7f30db0bf6d05f9124bb2b59f23ae1ce/create-a-flat-and-minimalist-background.jpg')
+}
+
+.grid-container {
+    display: grid;
+    width: 100%;
+    grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    grid-gap: 15px;
+    height: 100%;
+    margin-top: 100px;
+}
+
+.hello {
+    color: #20b2aa;
+    background-color: #ffffff;
+    text-align: center;
+    font-family: sans-serif;
+    width: 100%;
+    position:fixed;
+    top: 0;
+    opacity: 0.7;
+    transition: all .9s ease-in;
+    
+}
+
+.hello:hover {
+    opacity: 0;
+}
+
+.list {
+    color: #9370db;
+    width: fit-content;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+
+
+.pic {
+    text-align: left;
+    margin-left: 60px;
+    margin-top: 30px;
+    grid-area: 2 / 1 / span 2 / span 2;
+
+}
+
+.pic2 {
+    grid-area: 1 / 3 / span 2 / span 2;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.out {
+
+}
+
+.out1 {
+
+}
+
+.out2 {
+    
+}
+
+.out3 {
+    
+}
+
+
+.list1 {
+    grid-area: 1 / 1 / span 2 / span 2;
+    margin-left: 350px;
+    color: #DA9652;
+}
+
+.list2 {
+    grid-area: 2 / 2 / span 2 / span 2;
+    margin-left: 150px;
+    margin-top: -20px;
+}
+
+.list3 {
+    grid-area: 3 / 2 / span 2 / span 2;
+    margin-left: 150px;
+    color: #7CCE2B;
+}
+
+
+.items {
+    width: fit-content;
+    color: #c71585;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 10px;
+    border-radius: 12px;
+    border-style: double;
+    border-width: 3px;
+    border-color: rgba(227, 124, 227, 0.4);
+
+
+}
+
+ li {
+    padding: 10px;
+}
+
+
+
+.in1 {
+    width: 250px;
+}
+
+.in2 {
+    
+    color: #c71585;
+    width: 250px;
+
+}
+
+.in3 {
+    width: 180px;
+}
+
+
+
+
+
+.mor {
+    transition: color 500ms ease 100ms;
+}
+.mor1 {
+    transition: color 500ms ease 100ms;
+}
+.mor2 {
+    transition: color 500ms ease 100ms;
+}
+.mor3 {
+    transition: color 500ms ease 100ms;
+}
+
+.mor:hover {
+    color: white;
+}
+.mor1:hover {
+    color: white;
+}
+
+.mor2:hover {
+    color: white;
+}
+
+.mor3:hover {
+     color: white;
+}
+
+
+.more {
+    transition: color 500ms ease 100ms;
+}
+.more1 {
+    transition: color 500ms ease 100ms;
+}
+.more2 {
+    transition: color 500ms ease 100ms;
+}
+.more3 {
+    transition: color 500ms ease 100ms;
+}
+
+.more:hover {
+    color: white;
+}
+.more1:hover {
+    color: white;
+}
+
+.more2:hover {
+    color: white;
+}
+
+.more3:hover {
+     color: white;
+}
+
+
+.moree {
+    transition: color 500ms ease 100ms;
+}
+.moree1 {
+    transition: color 500ms ease 100ms;
+}
+.moree2 {
+    transition: color 500ms ease 100ms;
+}
+.moree3 {
+    transition: color 500ms ease 100ms;
+}
+
+.moree:hover {
+    color: white;
+}
+.moree1:hover {
+    color: white;
+}
+
+.moree2:hover {
+    color: white;
+}
+
+.moree3:hover {
+     color: white;
+}
+
+
+
+
+
+
+
+footer {    
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    text-align: center;
+    font-family: sans-serif;
+    color: #20b2aa;
+    font-size: 20px;
+    transition: all .9s ease-in;
+    height: 70px;
+    opacity: 0.7;
+}
+
+footer:hover {
+    opacity: 0;
+}
+
+footer h3 {
+    text-align: center;
+    color: #20b2aa;
+}
