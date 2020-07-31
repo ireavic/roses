@@ -127,91 +127,16 @@ body {
 
 
 
-.mor {
-    transition: color 500ms ease 100ms;
-}
-.mor1 {
-    transition: color 500ms ease 100ms;
-}
-.mor2 {
-    transition: color 500ms ease 100ms;
-}
-.mor3 {
-    transition: color 500ms ease 100ms;
-}
-
-.mor:hover {
-    color: white;
-}
-.mor1:hover {
-    color: white;
-}
-
-.mor2:hover {
-    color: white;
-}
-
-.mor3:hover {
-     color: white;
-}
-
-
 .more {
     transition: color 500ms ease 100ms;
 }
-.more1 {
-    transition: color 500ms ease 100ms;
-}
-.more2 {
-    transition: color 500ms ease 100ms;
-}
-.more3 {
-    transition: color 500ms ease 100ms;
-}
+
 
 .more:hover {
     color: white;
 }
-.more1:hover {
-    color: white;
-}
-
-.more2:hover {
-    color: white;
-}
-
-.more3:hover {
-     color: white;
-}
 
 
-.moree {
-    transition: color 500ms ease 100ms;
-}
-.moree1 {
-    transition: color 500ms ease 100ms;
-}
-.moree2 {
-    transition: color 500ms ease 100ms;
-}
-.moree3 {
-    transition: color 500ms ease 100ms;
-}
-
-.moree:hover {
-    color: white;
-}
-.moree1:hover {
-    color: white;
-}
-
-.moree2:hover {
-    color: white;
-}
-
-.moree3:hover {
-     color: white;
-}
 
 
 
